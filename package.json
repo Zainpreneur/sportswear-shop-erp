@@ -1,0 +1,9 @@
+{
+  "name": "sportswear-shop-erp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "sportswear-shop-erp",
+  "scripts": {
+    "start": "echo \"No root entrypoint; inspect repository contents\""
+  }
+}
